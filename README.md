@@ -1,5 +1,6 @@
-# react-redux-registration-login-example
+# E-diabetics project
+# `git clone https://github.com/Liliane003/e-diabetics-redux.git`
 
-React + Redux - User Registration and Login Tutorial & Example
+# npm run start
+# screenshot
 
-For documentation and further details go to https://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example
